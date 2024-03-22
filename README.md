@@ -30,6 +30,8 @@ api/Agregar-- Agregar nuevo titulo y descripcion a la base de datos
 Ultimo Registro:
 ![image](https://github.com/Urielcont/CineDir-Login-and-start-page-/assets/128828694/c846b9da-8707-481c-b2c8-69c83b403d09)
 Mostrado en la app:
-![image](https://github.com/Urielcont/CineDir-Login-and-start-page-/assets/128828694/0b21d9e4-4986-4406-861d-b709226aa246)
+![app cinedir](https://github.com/Urielcont/CineDir-Login-and-start-page-/assets/128828694/b943a879-1750-46ad-884f-abd280f331a3)
+
+
 
 
