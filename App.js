@@ -14,7 +14,7 @@ const LoginScreen = ({navigation}) => {
   const [contrasena, setContrasena] = useState('');
   const [mensajeError, setMensajeError] = useState('');
 
-  const handleInicioSesion = () => {
+  const CredencialesIniciarSesion = () => {
     if (usuario === 'root' && contrasena === '1234') {
       setMensajeError('');
       console.log('Inicio de sesión exitoso');
@@ -46,7 +46,7 @@ const LoginScreen = ({navigation}) => {
             />
           <TouchableOpacity
           style={styles.button}
-          onPress={handleInicioSesion}
+          onPress={CredencialesIniciarSesion}
           >
           <Text style={styles.buttonText}>Iniciar Sesión</Text>
         </TouchableOpacity>

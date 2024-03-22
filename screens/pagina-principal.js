@@ -106,4 +106,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default PaginaPrincipal;
+  export default PaginaPrincipal;
