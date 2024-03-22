@@ -12,7 +12,7 @@ const PaginaPrincipal = () => {
 
   const obtenerUltimoRegistro = async () => {
     try {
-      const respuesta = await Axios.get('http://192.168.1.14:3000/api/Datos');
+      const respuesta = await Axios.get('http://192.160.1.10:3000/api/Datos');
       setUltimoRegistro(respuesta.data);
       console.log(respuesta)
     } catch (error) {
